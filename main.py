@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 
 st.write("Hello ,let's learn how to build a streamlit app")
